@@ -1,0 +1,184 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Ghoomar folk dance  | Photo</title>
+<meta name="description" content="Bagore Ki Haveli, Udaipur">
+<meta name="viewport" content="width=device-width, maximum-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="icon" href="/pix/favicon.png" type="image/png">
+<link rel="stylesheet" href="/css/vendor/bootstrap.min.css" type="text/css">
+<!--[if IE]><link rel="stylesheet" href="/css/tb-v4-ie.css" type="text/css"><![endif]-->
+<!--[if lt IE 8.]><link rel="stylesheet" href="/css/tb-v4-ie7.css" type="text/css"><![endif]-->
+
+
+<script type="text/javascript" src="https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=g16WFX6fTf-a511MqtaoBlVw-p2E_67SIgjM3tM11i6yQUMjgMntENcAUqRUaQ_XG6Q2BbL5RbEaUKBWgeUILQ" charset="UTF-8"></script><style>
+img.view-photo {
+max-width:800px;
+max-height:533px;
+}
+</style>
+<!--[if IE]><style>
+div.ads_photo {
+margin-left:-128px;
+}
+</style>
+<![endif]-->
+
+
+<script>if(parent.frames.length>0&&window.document.domain!==top.document.domain)top.location.replace(document.location);</script>
+</head>
+<body class="home"  data-country='US'>
+<header><div class='layer1'><div class='tint'>	<div class='container'>		<div class='row'>			<div class='col-sm-4'>				<a href='/' class='tb-logo hidden-xs'><img src='/pix/v4/logo.200.png' title='Travel Blog'></a>				<a href='/' class='tb-logo-small visible-xs pull-left'><img src='/pix/v4/logo.150.png' title='Travel Blog'></a>				<button type="button" class="navbar-toggle pull-right" data-toggle="collapse" data-target="#tb-topnav">					<i class="fa fa-bars fa-lg" style='display:inline-block;'></i> <span class='hidden-xs'>menu</span>				</button>				<button type="button" class="navbar-toggle pull-right" data-toggle="collapse" data-target="#tb-continents">					<i class="fa fa-globe fa-lg"></i> <span class='hidden-xs'>continents</span>				</button>			</div>			<div class='col-sm-8 hidden-xs'>				<div id='login-form' class='pull-right hidden-xs user-hide'>					<form id="login" class='form-inline tb-xs' action='https://www.travelblog.org/Admin/login.php' method='POST'>						<input type="text" id="login_email" name="email" value="" placeholder='email@example.com' class='form-control input-sm email'>						<input type="password" id="login_password" name="password" value="" class='form-control input-sm' placeholder='password'>						<input type='hidden' name='url' id='back_url'>						<input type="submit" id="login_button" class="btn btn-tb input-sm" value="Login">						<a class='user_hide btn btn-primary input-sm' href='https://www.travelblog.org/interface/facebook/oauth.php' title='Sign in with Facebook'><i class='fa fa-facebook'></i> | Sign In</a>					</form>				</div>				<nav class='pull-right hidden-xs anon-hide' role='navigation'>					<ul class='nav navbar-nav control-panel small'>						<li><a class='user-blog-link' href='#'><i class='fa fa-user'></i> <span class='user-name'></span> Blog</a>						<li><a href='/Admin/'><i class='fa fa-cog'></i> control panel</a>						<li><a href='/Admin/logout.php' class='cms-logout'><i class='fa fa-sign-out'></i> logout</a>					</ul>				</nav>				<br class='clearfix'>				<br class='clearfix'>			</div>		</div>	</div><div class='visible-xs'>	<div class='container center user-hide'>		<div class='tb-padded'>			<a class='btn btn-tb' id="login_button" class="btn btn-tb input-sm" href='/Admin/login.php'><i class='fa fa-globe fa-lg'></i> | Log In</a>			<a class='btn btn-primary' href='https://www.travelblog.org/interface/facebook/oauth.php' title='Sign in with Facebook'><i class='fa fa-facebook fa-lg'></i> | Sign In</a>		</div>	</div></div><div class='visible-xs'>	<div class='container center anon-hide'>		<div class='tb-padded'>			<a class='btn btn-primary user-blog-link' href='#' title='your blog'><i class='fa fa-user fa-lg'></i></a>			<a class='btn btn-tb' href='/Admin' title='control panel'><i class='fa fa-cog fa-lg'></i></a>			<a class='btn btn-danger cms-logout' href='/Admin/logout.php' title='logout'><i class='fa fa-sign-out fa-lg'></i></a>		</div>	</div></div><div class='tb-wrapper hidden-xs'>	<div class='container'>		<ul class="nav hidden-xs main-menu navbar-nav">			<li><a href="/"><i class='fa fa-home fa-lg'></i> </a>			<li><a href="/join.php">Create a Travel Blog</a>			<li><a href="/Bloggers/">Bloggers</a>			<li><a href="/latest.html">Blogs</a>			<li><a href="/Forum/">Forum</a>			<li><a href="/Photos/">Photos</a>			<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class='fa fa-bars fa-lg'></i>  <b class="caret"></b></a>			<ul class="dropdown-menu">				<li><a href="/Wallpaper/">Wallpaper</a>				<li><a href="/Travel-Guide/">Travel Guide</a>				<li><a href="/travel-photos.html">Travel Photos</a>				<li><a href='/Services/travel-insurance.html'>Cheap Travel Insurance</a>			</ul>		</ul>		<form class="navbar-search navbar-form pull-right text-right form-inline hidden-xs tb-xs" method='GET' action="/search.html" style='position:relative;'>				<input type="search" id="search-top" name="q" placeholder='Search Travel Blog' class="input-xs form-control">				<i class='fa fa-search'> </i><input type="submit" class="submit-search" value="" style=''>			    <input type="hidden" name="cx" value="partner-pub-3483579802660160:1826813936">				<input type='hidden' name='sa' value='Search'>				<input type='hidden' name='siteurl' value='www.travelblog.org/search.html#720'>				<input type='hidden' name='cof' value='FORID:10'>		</form>	</div></div></div></div></header><div class='tb-wrapper-band tb-dark-blue hidden-xs' style='margin:0;'>	<div class='container'>		<ul class='nav nav-justified tb-continents'>			<li><a href="/Africa/">Africa</a>			<li><a href="/Antarctica/Antarctica/">Antarctica</a>			<li><a href="/Asia/">Asia</a>			<li><a href="/Central-America-Caribbean/">C. America &amp; Caribbean</a>			<li><a href="/Europe/">Europe</a>			<li><a href="/Middle-East/">Middle East</a>			<li><a href="/North-America/">N. America</a>			<li><a href="/Oceania/">Oceania</a>			<li><a href="/Oceans-and-Seas/">Oceans &amp; Seas</a>			<li><a href="/South-America/">S. America</a>		</ul>	</div></div><div class='tb-wrapper-band tb-dark-blue visible-xs' style='margin:0;'>	<div class='container'>		<div class='collapse navbar-collapse' id='tb-topnav'>			<div class='tb-columns tb-xxs-narrow'>				<ul class="nav nav-pills nav-stacked">					<li><a href="/join.php">Create a Travel Blog</a>					<li><a href="/Bloggers/">Bloggers</a>					<li><a href="/latest.html">Blogs</a>					<li><a href="/Wallpaper/">Wallpaper</a>					<li><a href="/Travel-Guide/">Travel Guide</a>					<li><a href="/travel-photos.html">Travel Photos</a>					<li><a href='/Services/travel-insurance.html'>Cheap Travel Insurance</a>					<li><a href="/Forum/">Forum</a>					<li><a href="/Photos/">Photos</a>				</ul>			</div>		</div>		<div class='collapse navbar-collapse' id='tb-continents'>			<div class='tb-columns tb-xxs-narrow'>				<ul class='nav nav-pills nav-stacked'>					<li><a href="/Africa/">Africa</a>					<li><a href="/Antarctica/Antarctica/">Antarctica</a>					<li><a href="/Asia/">Asia</a>					<li><a href="/Central-America-Caribbean/">C. America &amp; Caribbean</a>					<li><a href="/Europe/">Europe</a>					<li><a href="/Middle-East/">Middle East</a>					<li><a href="/North-America/">N. America</a>					<li><a href="/Oceania/">Oceania</a>					<li><a href="/Oceans-and-Seas/">Oceans &amp; Seas</a>					<li><a href="/South-America/">S. America</a>				</ul>			</div>		</div>	</div></div><div id="fb-root"></div><br>
+	<div class='container'>
+		<div class='breadcrumb'><a href='/Asia/'>Asia</a> &raquo;&nbsp;<a href='/Asia/India/'>India</a> &raquo;&nbsp;<a href='/Asia/India/Rajasthan/'>Rajasthan</a> &raquo;&nbsp;<a href='/Asia/India/Rajasthan/Jaipur/'>Jaipur</a> &raquo; <a href='/Asia/India/Rajasthan/Jaipur/blogs-page-1.html'>Blogs</a> &raquo; <a href='/Asia/India/Rajasthan/Jaipur/blog-1049044.html'>Rajasthan tour of a Bangalorean</a> &raquo; Ghoomar folk dance  </div>
+		<div class="col-md-8 content">
+				<div class='ads_leader'>
+<span class="fl_left">Advertisement</span><br class="ads"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- TB - Rsp Leader Photo Top -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3483579802660160"
+     data-ad-slot="7219153133"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div><a class='pull-left backphoto' href='/Photos/10215885'><b>&laquo; previous</b></a> <a class='pull-right nextphoto' href='/Photos/10215689'><b>next &raquo;</b></a><br class='clearfix'><div class='photo-wrapper'>	<div class="photo-container" >		<div class='position-left'>			<div class='position-right'>				<div id='myphoto' class="view-photo">					<img src='//photos.travelblog.net/318745/1049044/f/10215707-ghoomar-folk-dance-0.jpg' srcset="//photos.travelblog.net/318745/1049044/s/10215707-ghoomar-folk-dance-0.jpg 120w,//photos.travelblog.net/318745/1049044/t/10215707-ghoomar-folk-dance-0.jpg 300w,//photos.travelblog.net/318745/1049044/f/10215707-ghoomar-folk-dance-0.jpg 800w,//photos.travelblog.net/318745/1049044/l/10215707-ghoomar-folk-dance-0.jpg 2400w"  title='Ghoomar folk dance ' alt='Ghoomar folk dance ' id='thephoto' style='max-height:95vh;max-width:100%;'>					<span style="display:block;background-image:url(/pix/shim.gif);z-index:20;position:absolute;top:0;width:100%;height:100%;margin-left:-6px;">&nbsp;</span>					<div id='photo-rating' data-photo='10215707' data-rating='0' class='anon-hide photo-rating text-muted pull-left'><ul><li data-rate="1"><a href="#" title="Rate as 1 out of 5"><i id='star-1' class='fa fa-fw fa-star-o'></i></a><li data-rate="2"><a href="#" title="Rate as 2 out of 5"><i id='star-2' class='fa fa-fw fa-star-o'></i></a><li data-rate="3"><a href="#" title="Rate as 3 out of 5"><i id='star-3' class='fa fa-fw fa-star-o'></i></a><li data-rate="4"><a href="#" title="Rate as 4 out of 5"><i id='star-4' class='fa fa-fw fa-star-o'></i></a><li data-rate="5"><a href="#" title="Rate as 5 out of 5"><i id='star-5' class='fa fa-fw fa-star-o'></i></a></ul></div><div class='moderator-show moderate-image' id='flag-image' data-photo-id='10215707'>	<a class='moderate-photo btn btn-success btn-tiny  moderated-allowed' data-flag='allowed' data-photo-id='10215707' href='#' title='The image is 100% acceptable'><i class='fa fa-fw fa-check'></i></a> &nbsp;	<a class='moderate-photo btn btn-warning btn-tiny  moderated-gray' data-flag='gray' data-photo-id='10215707' href='#' title='Partial Nudity / Borderline'><i class='fa fa-fw fa-question'></i></a> &nbsp;	<a class='moderate-photo btn btn-danger btn-tiny muted moderated-inappropriate' data-flag='inappropriate' data-photo-id='10215707' href='#' title='Adult or Offensive'><i class='fa fa-fw fa-times'></i></a></div>				</div>			</div>		</div>		<br style='clear:both;'>		<h1 class='photo-name'>Ghoomar folk dance </h1>		<div class='photo-caption'>Bagore Ki Haveli, Udaipur</div>	</div>	<div class='center'><ul class='pagination'><li><a href='10215885' title='First'>&laquo;&laquo;</a><li><a href='/Photos/10215885' title='Previous'>&laquo;</a><li><a href='10215885'>1</a><li class='active'><a href='#'>2</a><li><a href='10215689'>3</a><li><a href='10215997'>4</a><li><a href='10215687'>5</a><li><a href='10215995'>6</a><li><a href='10215701'>7</a><li><a href='10215697'>8</a><li><a href='10215703'>9</a><li><a href='10215712'>10</a><li><a href='10215704'>11</a><li class='disabled'><a href='#'>...</a><li><a href='10215689' title='next'>&raquo;</a><li><a href='/Photos/10215713' title='Last'>&raquo;&raquo;</a></ul></div>	<div class='row'>		<div class="col-sm-6">						<span class="display-photo-blog-link"><a href="/Asia/India/Rajasthan/Jaipur/blog-1049044.html" class="blog-title-link" title="Rajasthan tour of a Bangalorean">Rajasthan tour of a Bangalorean</a></span>			<hr class="display-photo-hr">			<br><span class="display-photo-blog">March 13th 2020</span>			<br style='clear:left'>			Blogs of Rajasthan are plenty in the net, covering almost all well known places. I will add one more with a different perspective.I searched elaborately thru internet for appropriate inputs, to finalize the logistics of a weeklong tour program covering important historical places, wildlife of Ranthambore and of course the desert of Jaisalmer. But I did not get it in a nutshell and had to pick  <a href='/Asia/India/Rajasthan/Jaipur/blog-1049044.html'>... read more</a>		</div>		<div class="col-sm-6">			<span class="display-photo-blog-link"><a href='/Asia/'>Asia</a> &raquo;&nbsp;<a href='/Asia/India/'>India</a> &raquo;&nbsp;<a href='/Asia/India/Rajasthan/'>Rajasthan</a> &raquo;&nbsp;<a href='/Asia/India/Rajasthan/Jaipur/'>Jaipur</a></span>			<br style="clear:both">			<hr class="display-photo-hr">			<a href="/Asia/India/fact-flag-india.html" title="Indian Flag">				<img class="display-photo-flag" src="/pix/mini-flags/in-flag.gif" alt="Indian Flag">			</a>			<span class="description">The Indus Valley civilization, one of the oldest in the world, dates back at least 5,000 years. Aryan tribes from the northwest invaded about 1500 B.C.; their merger with the earlier Dravidian inhabitants created the classical Indian culture. Arab in... <a href="/Asia/India/Rajasthan/Jaipur/">... read more</a></span>			<br class='clear'>		</div>	</div>	<div class='center'><ul class='pagination'><li><a href='10215885' title='First'>&laquo;&laquo;</a><li><a href='/Photos/10215885' title='Previous'>&laquo;</a><li><a href='10215885'>1</a><li class='active'><a href='#'>2</a><li><a href='10215689'>3</a><li><a href='10215997'>4</a><li><a href='10215687'>5</a><li><a href='10215995'>6</a><li><a href='10215701'>7</a><li><a href='10215697'>8</a><li><a href='10215703'>9</a><li><a href='10215712'>10</a><li><a href='10215704'>11</a><li class='disabled'><a href='#'>...</a><li><a href='10215689' title='next'>&raquo;</a><li><a href='/Photos/10215713' title='Last'>&raquo;&raquo;</a></ul></div>	<div class='ads_leader'>
+<span class="fl_left">Advertisement</span><br class="ads"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- TB - Rsp Photo Leader Bottom -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3483579802660160"
+     data-ad-slot="5871971935"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div></div>
+		</div>
+		<div class="col-md-4 sidebar">
+				<iframe src="https://www.facebook.com/plugins/share_button.php?href=+http%3A%2F%2Fwww.travelblog.org%2FPhotos%2F10215707&layout=button_count&size=large&mobile_iframe=true&appId=109033489125924&width=98&height=28"
+ width="98" height="28" style="border:none;overflow:hidden" scrolling="no"
+ frameborder="0" allowTransparency="true"></iframe><div class='btn-group btn-group-justified'>	<a href='/browsers.html' class='btn btn-info' onclick='window._app.cms.dialog("/Utils/message.php?to_user_id=318745&amp;popped=1","tbmessage",600,600);return false;' title='Send a Private Message to Saibal Mitra' rel='nofollow'>Message</a>	<a href='#' class='btn user-hide subscribe-btn btn-info' data-blogger-id='318745' data-blogger-name='Saibal Mitra' title='Get an email each time Saibal Mitra updates this blog.' rel='nofollow'>Subscribe</a>	<a href='/Social/follow.php?to_id=318745' data-to-user-id='318745' data-follower-count='1' class='anon-hide follow btn btn-primary' title='Click to Follow'><i class='fa fa-star-o tb-follow'></i> Follow (<span class='follower-count'>1</span>)</a>	<a href='#comments_content' title='Add a Comment' class='btn btn-warning'>Comment</a></div><div class="article-head"><a href='/Bloggers/smitra/'>Saibal Mitra</a></div><div class='blogger image'><a href='/Bloggers/smitra/'><img src='//photos.travelblog.net/318745/t-318745-2.jpg' alt='smitra'><br>smitra</a></div><hr class='blog_hr'><table class='table'><tr><td>Joined<td>June 26th 2015<td><a href='/Bloggers/smitra/Trips/'>Trips</a><td><a href='/Bloggers/smitra/Trips/'>0</a><tr><td>Last Login<td>August 27th 2021<td><a href='/Bloggers/smitra/social.html'>Followers</a><td><a href='/Bloggers/smitra/social.html'>1</a><tr><td>Status<td>BLOGGER<td><a href='/Bloggers/smitra/social.html'>Follows</a><td><a href='/Bloggers/smitra/social.html'>0</a><tr><td>Blogs<td>22<td><a href='/Bloggers/smitra/Guestbook/'>Guestbook</a><td><a href='/Bloggers/smitra/Guestbook/'>106</a><tr><td>Photos<td>551<td><a href='/Bloggers/smitra/forum_posts.html'>Forum Posts</a><td><a href='/Bloggers/smitra/forum_posts.html'>3</a></table><div class='user-show'><div class='pull-left'>[photo=10215707]</div><div class='pull-right'>[blogger=318745]</div></div><br class='clearfix'><table class='table anon-hide text-muted small'><tr><td>[photo=10215707] <td class='text-center'>[blog=1049044] <td class='text-right'>[blogger=318745]</table><br class='clearfix'><div class='btn-group btn-group-justified'><a href='/Bloggers/smitra/top_photos.html' class='btn btn-default'>Top Photos</a><a href='/Bloggers/smitra/map.html' class='btn btn-default'>Blog Map</a></div><br class='clearfix'><div class='ads_medium_rectangle'>
+<span class="fl_left">Advertisement</span><br class="ads"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- TB - Medium Rectangle -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3483579802660160"
+     data-ad-slot="8630447936"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div><br class='clearfix'>
+		</div>
+		<span class='clearfix'></span>
+		<iframe class='comment' scrolling='no' src='/Comments/add_comment.php?blogger_id=318745&amp;blog_id=1049044&amp;photo_id=10215707' frameborder='0'></iframe>
+		<div class='tb-columns' id="comments_content">
+		
+		</div>
+		<div class='breadcrumb'><a href='/Asia/'>Asia</a> &raquo;&nbsp;<a href='/Asia/India/'>India</a> &raquo;&nbsp;<a href='/Asia/India/Rajasthan/'>Rajasthan</a> &raquo;&nbsp;<a href='/Asia/India/Rajasthan/Jaipur/'>Jaipur</a> &raquo; <a href='/Asia/India/Rajasthan/Jaipur/blogs-page-1.html'>Blogs</a> &raquo; <a href='/Asia/India/Rajasthan/Jaipur/blog-1049044.html'>Rajasthan tour of a Bangalorean</a> &raquo; Ghoomar folk dance  </div>
+	</div>
+<div id="cms_details"class="cms-info admin-show">Tot: 0.135s; Tpl: 0.003s; cc: 10; qc: 45; dbt: 0.0706s; 1; m:domysql w:travelblog (10.17.0.13); sld: 1;
+<span class='cms_age' data-value='1676451545'></span>; mem: 1.2mb</div>
+<footer id='footer' class='footer small clear-fix'>	<div class='container'>		<ul class="social-links"><li><a href="//www.travelblog.org/rss/latest.xml" target="_blank" class="rss"><i class='fa fa-rss'> </i></a><li><a href="http://twitter.com/travelblog_org" target="_blank" class="twitter"><i class='fa fa-twitter'> </i></a><li><a href="http://www.facebook.com/travelblog.org" target="_blank" class="facebook"><i class='fa fa-facebook'> </i></a></ul>		<div class='tb-columns tb-narrow'>			<ul>				<li><a href="http://www.travelblog.org/">Home</a>				<li><a href="/about.html">About Us</a>				<li><a href="/privacy.html">Privacy Policy</a>				<li><a href="/tos.html">Terms of Service</a>				<li><a href="/join.php">Join Us</a>				<li><a href="/Utils/contact.php">Contact Us</a>				<li><a href="/advertising.html">Advertising</a>				<li><a href="/Cool-Stuff/">Cool Stuff</a>				<li><a href="/Services/travel-insurance.html">Travel Insurance</a>				<li><a href="/Travel-Guide/">Travel Guide</a>				<li><a href="/World/">World Facts</a>			</ul>		</div>		<div class="text-muted pull-right">uranus  now: 1676451545 age: fresh<!--#cache_ttl#--><!--#cache_left#--></div>		&copy; 2022 TravelBlog.org &amp; Bloggers		<br class='clearfix'>		<br>	</div></footer>
+
+<!--[if lt IE 9]>
+<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+    <script src="/build/dist/bundle-923a2b6.min.js"></script>
+
+<script>
+
+$(document).ready(function() {
+	
+});
+</script>
+
+<script src="/js/vendor/bootstrap.min.js"></script>
+<script>
+// TODO
+// if get list then modify the next and last url -- and the navigation if possible.
+var next_id = '10215689';
+var prev_id = '10215885';
+var next_url = '/Photos/10215689';
+var prev_url = '/Photos/10215885';
+var this_id = 10215707;
+
+var query = window._app.utils.info.params;
+
+var qs = '?list=' + query.list + '&src=' + query.src;
+if (query.src) {
+	next_url = query.src;
+	prev_url = query.src;
+}
+
+if (query.list) {
+	// OVerrides for list
+	var list = query.list.split(":");
+
+	// now find position in list
+	var j = list.indexOf('10215707');
+	if (j !== -1) {
+		next_id = list[j+1] ? list[j+1] : 0;
+		prev_id = list[j-1] ? list[j-1] : 0;
+	}
+	if (next_id) next_url = '/Photos/'+next_id+'?list='+query.list;
+ 	if (prev_id) prev_url = '/Photos/'+prev_id+'?list='+query.list;
+	if (query.src) {
+		if (next_id) next_url += '&src='+query.src;
+		if (prev_id) prev_url += '&src='+query.src;
+	}
+}
+
+$(document).ready(function () {
+
+	function changePage(url) {
+		top.location  = url;
+	}
+
+	window._vendor.shortcut.add("Left",function() {
+		changePage(prev_url);
+	});
+
+	window._vendor.shortcut.add("Right",function() {
+		changePage(next_url);
+	});
+
+	var photo_nav = window._app.ready.photo_navigation(list, this_id, '/Photos/', qs, 5);
+	$('.pagination').html(photo_nav);
+
+	$('.nextphoto').on('click',function(e) {
+		e.preventDefault();
+		changePage(next_url);
+	});
+	$('.backphoto').on('click',function(e) {
+		e.preventDefault();
+		changePage(prev_url);
+	});
+
+
+});
+
+var section_photo = true; // used in readyjs
+
+</script><script>
+var rating = 0;
+var updated = 0;
+var next_photo = '/Photos/10215689'; // TODO override with list
+if ($.cookie('user_id') == '318745') updated=1;
+</script><script>
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-542241-1']);
+_gaq.push(['_trackPageview']);
+_gaq.push(['_trackPageLoadTime']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+</body>
+</html>
